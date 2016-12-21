@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,属性文件_jpg,宝石_png,屠龙宝刀_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "属性文件_jpg",
+			"type": "image",
+			"url": "assets/属性文件.jpg"
+		},
+		{
+			"name": "宝石_png",
+			"type": "image",
+			"url": "assets/宝石.png"
+		},
+		{
+			"name": "屠龙宝刀_png",
+			"type": "image",
+			"url": "assets/屠龙宝刀.png"
+		}
+	]
+}
